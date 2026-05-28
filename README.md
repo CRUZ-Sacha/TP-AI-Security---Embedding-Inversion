@@ -62,8 +62,6 @@ data/
 03_generative_baseline.ipynb        # nearest-neighbor corpus search + vec2text
 ```
 
-**Embedding model** : `all-mpnet-base-v2` (768-dim), L2-normalized. After normalization, inner product equals cosine similarity — all searches are exact cosine searches.
-
 ---
 
 ## Practical Session
